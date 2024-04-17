@@ -1,0 +1,13 @@
+a[href^='#'] {
+    color: aqua
+}
+
+.linkWrap {
+    font-weight: 400;
+}
+
+li
+[class~='linkWrapBig']
+{
+    font-weight: 700;
+}

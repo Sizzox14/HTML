@@ -1,0 +1,10 @@
+body {
+    background-image: url(Sfondo\ Sito.jpg);
+    background-repeat: no-repeat; /* Impedisce la ripetizione dell'immagine */
+    background-size: cover; /* Fa in modo che l'immagine copra l'intera area del corpo */
+}
+
+.h1 {
+    color: red; 
+    text-align: center;
+}
